@@ -1,14 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.49110922" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b95672bd-a92e-40d9-8b7c-6db9e3e73ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/main/resources/images/bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b95672bd-a92e-40d9-8b7c-6db9e3e73ebe" name="Default Changelist" comment="LoginController">
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/com/match10/controller/LoginController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main/resources/login_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/login_index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/css/cm-overlay.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/css/cm-overlay.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/css/popup-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/css/popup-box.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/bb1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/bb1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/bb2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/bb2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/bb3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/bb3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/bb4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/bb4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/c3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/c3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/c4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/c4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/c5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/c5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/c6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/c6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/co.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/co.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/contactbg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/contactbg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/g1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/g1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/g10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/g10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/g2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/g2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/g3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/g7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/g7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/g8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/g8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/g9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/g9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/n1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/n1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/n2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/n2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/n3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/n3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/n4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/n4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/single.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/single.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/t1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/t1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/t2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/t2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/t3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/t3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/t4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/t4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/images/up-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/images/up-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/easing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/jquery-1.11.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/jquery.cm-overlay.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/jquery.cm-overlay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/jquery.mobile.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/jquery.mobile.custom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/jquery.tools.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/jquery.tools.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/jquery.wmuSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/jquery.wmuSlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/modernizr.custom.53451.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/modernizr.custom.53451.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/js/move-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/static/js/move-top.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/login_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/templates/login_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/templates/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +81,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,10 +104,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/main/resources/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog/blog/blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,9 +121,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32548618" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myself\match10\client\src\main\resources\templates" />
+      <recent name="D:\myself\match10\client\src\main\resources\static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myself\match10\client\src\main\resources\static\images" />
       <recent name="D:\myself\match10\client\src\main\resources\images" />
       <recent name="D:\software\IDEA-workspace\match10\client" />
       <recent name="D:\software\IDEA-workspace\match10\management_system" />
@@ -90,33 +164,111 @@
       <updated>1589342413480</updated>
       <workItem from="1589342417254" duration="1566000" />
       <workItem from="1589350009299" duration="2211000" />
-      <workItem from="1589354571253" duration="283000" />
+      <workItem from="1589354571253" duration="2010000" />
+      <workItem from="1589363758992" duration="8600000" />
     </task>
+    <task id="LOCAL-00001" summary="page">
+      <created>1589354965250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589354965250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="page">
+      <created>1589355007749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589355007749</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="page" />
+    <MESSAGE value="LoginController" />
+    <option name="LAST_COMMIT_MESSAGE" value="LoginController" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="74" key="#Project_Structure" timestamp="1589343278754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589343278754" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1589355006236">
+    <state x="317" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589372327027">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589355006236" />
-    <state x="549" y="152" key="FileChooserDialogImpl" timestamp="1589343012199">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="317" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1589372327027" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1589372440097">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589372440097" />
+    <state x="458" y="125" key="FileChooserDialogImpl" timestamp="1589371022526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="125" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589371022526" />
     <state x="549" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589343012199" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589354615091">
+    <state width="1237" height="70" key="GridCell.Tab.0.bottom" timestamp="1589372243132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589354615091" />
+    <state width="1237" height="70" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state width="1237" height="70" key="GridCell.Tab.0.center" timestamp="1589372243132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="70" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state width="1237" height="70" key="GridCell.Tab.0.left" timestamp="1589372243132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="70" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state width="1237" height="70" key="GridCell.Tab.0.right" timestamp="1589372243132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="70" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state width="1237" height="70" key="GridCell.Tab.1.bottom" timestamp="1589372243132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="70" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state width="1237" height="70" key="GridCell.Tab.1.center" timestamp="1589372243132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="70" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state width="1237" height="70" key="GridCell.Tab.1.left" timestamp="1589372243132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="70" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state width="1237" height="70" key="GridCell.Tab.1.right" timestamp="1589372243132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="70" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589372243132" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1589370378991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589370378991" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589363759682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589363759682" />
     <state x="178" y="116" key="new project wizard" timestamp="1589343144999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589343144999" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/match10$ClientApplication.ic" NAME="ClientApplication Coverage Results" MODIFIED="1589366073410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
