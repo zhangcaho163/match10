@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b95672bd-a92e-40d9-8b7c-6db9e3e73ebe" name="Default Changelist" comment="" />
+    <list default="true" id="b95672bd-a92e-40d9-8b7c-6db9e3e73ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/resources/login_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main/resources/login_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,22 +32,31 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1bqBziURkYzge85FJwZ12pxdSE0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/main/resources/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32548618" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myself\match10\client\src\main\resources\images" />
       <recent name="D:\software\IDEA-workspace\match10\client" />
       <recent name="D:\software\IDEA-workspace\match10\management_system" />
       <recent name="D:\software\IDEA-workspace\match10\client\src\main\resources" />
@@ -65,6 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589342413480</updated>
       <workItem from="1589342417254" duration="1566000" />
+      <workItem from="1589350009299" duration="2211000" />
+      <workItem from="1589354571253" duration="283000" />
     </task>
     <servers />
   </component>
@@ -80,6 +106,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589343012199" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589354615091">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589354615091" />
     <state x="178" y="116" key="new project wizard" timestamp="1589343144999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

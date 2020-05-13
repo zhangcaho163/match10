@@ -9,6 +9,7 @@
         <module name="client" />
         <module name="match10" />
         <module name="management_system" />
+        <module name="match10 (1)" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="client" options="-parameters" />
       <module name="management_system" options="" />
+      <module name="match10" options="-parameters" />
     </option>
   </component>
 </project>
